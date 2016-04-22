@@ -1,0 +1,36 @@
+[INFO] command is CMD POWEROFF
+[INFO] command is CMD READFACTORY sdrsn
+[INFO] command is CMD RXTUNE 885200
+[INFO] command is CMD TXTUNE 930200
+[INFO] command is CMD SETTSC 2
+[INFO] command is CMD SETMAXDLY 4
+[INFO] command is CMD SETRXGAIN 5
+[INFO] command is CMD POWERON
+
+[INFO] command is CMD SETPOWER 35
+
+[INFO] command is CMD SETSLOT 0 5
+[INFO] command is CMD NOHANDOVER 0
+
+[INFO] command is CMD SETSLOT 1 1
+[INFO] command is CMD NOHANDOVER 1
+
+[INFO] command is CMD SETSLOT 2 1
+[INFO] command is CMD NOHANDOVER 2
+
+[INFO] command is CMD SETSLOT 3 1
+[INFO] command is CMD NOHANDOVER 3
+
+[INFO] command is CMD SETSLOT 4 1
+[INFO] command is CMD NOHANDOVER 4
+
+[INFO] command is CMD SETSLOT 5 1
+[INFO] command is CMD NOHANDOVER 5
+
+[INFO] command is CMD SETSLOT 6 1
+[INFO] command is CMD NOHANDOVER 6
+
+[INFO] command is CMD SETSLOT 7 1
+[INFO] command is CMD NOHANDOVER 7
+
+[INFO] command is CMD SETPOWER 35
