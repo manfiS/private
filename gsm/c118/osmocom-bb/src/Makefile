@@ -4,7 +4,9 @@
 CROSS_INST_PREFIX ?= /usr/local/stow/osmocom-bb/arm-2010.09
 
 # this is the host tuple of your cross-toolchain
-CROSS_HOST ?= $(shell which arm-elf-gcc >/dev/null 2>&1 && echo arm-elf || echo arm-none-eabi)
+#  ?= $(shell which arm-elf-gcc >/dev/null 2>&1 && echo arm-elf || echo arm-none-eabi)
+CROSS_HOST=arm-none-eabi
+
 
 # this is the prefix of your cross-toolchain programs
 CROSS_TOOL_PREFIX=$(CROSS_HOST)-
